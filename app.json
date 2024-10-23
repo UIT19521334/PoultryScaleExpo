@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundlerIdentifier": "com.japfa.poultryscale"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "googleServicesFile": "./google-services.json",
       "package": "com.japfa.poultryscale"
     },
     "web": {
@@ -37,6 +39,7 @@
       "eas": {
         "projectId": "0820d183-e2f7-4a1b-af2e-f7d75dd205f7"
       }
-    }
+    },
+    "owner": "ndcdat"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5159510838",
+    "project_id": "poultry-scale",
+    "storage_bucket": "poultry-scale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5159510838:android:2d0282719e3d0673188997",
+        "android_client_info": {
+          "package_name": "com.japfa.poultryscale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKsidWazYub3AV0-E8evTuhQ0EF5_9mtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
