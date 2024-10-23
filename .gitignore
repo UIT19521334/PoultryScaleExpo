@@ -19,3 +19,6 @@ web-build/
 expo-env.d.ts
 .env*.local
 # @end expo-cli
+google-service.json
+/ios
+/android
